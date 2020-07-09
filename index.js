@@ -1,3 +1,3 @@
-function shout(hello) {
+function shout(string) {
   return string.toUpperCase(HELLO)
 }
